@@ -11,6 +11,9 @@
 | 탈잉     | 70     | 재능공유 플랫폼 | Series B | 187억   | [링크](http://www.newsworker.co.kr/news/articleView.html?idxno=180867#:~:text=%EC%B5%9C%EA%B7%BC%20%EC%9E%AC%EB%8A%A5%20%EA%B3%B5%EC%9C%A0%20%ED%94%8C%EB%9E%AB%ED%8F%BC%20%ED%83%88%EC%9E%89,%EB%8A%94%2025%EB%AA%85%EC%9C%BC%EB%A1%9C%20%EC%A4%84%EC%97%88%EB%8B%A4.) |
 | 엔씨소프트  | 70     | 게임       | IPO      |        | [링크](https://www.sedaily.com/NewsView/29LLFFJE0S)                                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
+### 알림 받기
+
+우측 상단 `Watch` 버튼을 누르면 대량 해고 관련 실시간 알림을 받을 수 있습니다.
 
 ### 데이터 추가 방법
 
